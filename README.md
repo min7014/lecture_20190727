@@ -19,8 +19,6 @@
 - ##### The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
 - ##### Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
 - ##### 예각에 대한 사인법칙(AlgeoMath)[강의록](From Github) : https://min7014.github.io/2019/2018092501.pdf
-- ##### 선분과 직선상의 한 점을 가지고 직각삼각형 작도하기(Beamer) : https://min7014.github.io/2019/2019062801.pdf
-- ##### 선분과 직선상의 한 점을 가지고 직각삼각형 작도하기(AlgeoMath) :  http://me2.do/5ZGXsJ4S
 - ##### 주사위의 상대도수 만드는 과정 [Algeomath : http://me2.do/5VH7wFdc ]
 - ##### Sierpinski Triangle  [ http://me2.do/FirUt3d2 ]
 
