@@ -15,9 +15,12 @@
 
 
 ### *참고
-- ##### Rose : http://me2.do/G8ZagiQR
+- ##### 민은기 선생님의 수학자료실 : [https://min7014.github.io](https://min7014.github.io)
 - ##### 만든순서별[2019] https://min7014.github.io/2019/2019021101.html
 - ##### 2019 학년도 수학수업(The mathematics class of 2019) : https://min7014.github.io/2019/2019030303.html
+- ##### Rose : http://me2.do/G8ZagiQR
+
+
 - ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
 - ##### The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
 - ##### Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
@@ -25,7 +28,7 @@
 - ##### 주사위의 상대도수 만드는 과정 [Algeomath : http://me2.do/5VH7wFdc ]
 - ##### Sierpinski Triangle  [ http://me2.do/FirUt3d2 ]
 
-- ##### 민은기 선생님의 수학자료실 : [https://min7014.github.io](https://min7014.github.io)
+
 - ##### edwith 수학자료실 강의실 수강신청 방법 : [https://goo.gl/TX9bxf](https://goo.gl/TX9bxf)
 
 
