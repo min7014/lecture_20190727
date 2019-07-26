@@ -15,6 +15,7 @@
 
 
 ### *참고
+- ##### Rose
 - ##### 만든순서별[2019] https://min7014.github.io/2019/2019021101.html
 - ##### 2019 학년도 수학수업(The mathematics class of 2019) : https://min7014.github.io/2019/2019030303.html
 - ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
