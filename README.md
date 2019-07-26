@@ -22,6 +22,8 @@
 - ##### Parametric Equations and Polar Coordinates : http://me2.do/xZ14UIh3
 - ##### Rose : http://me2.do/G8ZagiQR
 
+- ##### 빠르게 배우기 : http://me2.do/5fS0J6mQ
+
 - ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
 - ##### 평행선의 닮음비(길이가 변하는가?) : AlgeoMath	:	http://me2.do/53QwHpgI pdf	:	https://min7014.github.io/2019/2019072302.pdf YouTube	:	https://youtu.be/vGJ_oArMQK8
 
