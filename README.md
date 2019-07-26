@@ -15,6 +15,7 @@
 
 
 ### *참고
+- ##### 2019 학년도 수학수업(The mathematics class of 2019) : https://min7014.github.io/2019/2019030303.html
 - ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
 - ##### The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
 - ##### Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
