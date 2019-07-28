@@ -15,6 +15,7 @@
   ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
   
 - ### 2 차시 : TBA
+- ##### Sierpinski Triangle  [ http://me2.do/FirUt3d2 ]
   ##### Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
 - ### 3 차시 : TBA
 =======================================================
@@ -35,7 +36,7 @@
 
 - ##### 예각에 대한 사인법칙(AlgeoMath)[강의록](From Github) : https://min7014.github.io/2019/2018092501.pdf
 - ##### 주사위의 상대도수 만드는 과정 [Algeomath : http://me2.do/5VH7wFdc ]
-- ##### Sierpinski Triangle  [ http://me2.do/FirUt3d2 ]
+
 
 
 - ##### edwith 수학자료실 강의실 수강신청 방법 : [https://goo.gl/TX9bxf](https://goo.gl/TX9bxf)
