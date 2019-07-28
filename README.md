@@ -27,6 +27,7 @@
   ##### -Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
   
 - ### 3 차시 
+  ### 다른이에게 쉽게 알려주기
   ##### -빠르게 배우기 : http://me2.do/5fS0J6mQ
   ##### -The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt  
   ### 체크박스를 활용한 자료만들기 
