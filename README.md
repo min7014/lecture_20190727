@@ -6,13 +6,17 @@
 
 
 ## *AlgeoMath 전체 강의 순서
-- ### 1 차시 : 수학수업에서 실제활용, 공학도구를 활용하는 이유 및 탐구 수업 예시
+- ### 1 차시 : 공학도구를 활용하는 이유 및 탐구 수업 예시
+
   ##### The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
+  
   ### 수학수업에서 실제활용
   #####   평균변화율 AlgeoMath : http://me2.do/xtFOWk7X pdf : https://min7014.github.io/2019/2019072201.pdf YouTube : https://youtu.be/mj0CDSnLaIc
   #####   Solutions, Slope Fields, and Euler’s Method : http://me2.do/5WlxIbRn
   #####   Parametric Equations and Polar Coordinates : http://me2.do/xZ14UIh3
   #####   Rose : http://me2.do/G8ZagiQR
+  
+  ### 공학도구를 활용하는 이유 및 탐구 수업 예시
   #####   선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
   
 - ### 2 차시 : 반복적인 수학적 실험은 블록코딩으로 
