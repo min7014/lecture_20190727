@@ -6,8 +6,9 @@
 
 
 ## *AlgeoMath 전체 강의 순서
-- ### 1 차시 : 공학도구를 활용하는 이유 및 탐구 수업 예시
+- ### 1 차시
 
+  ### 처음시작에 자료
   ##### The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
   
   ### 수학수업에서 실제활용
