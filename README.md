@@ -12,6 +12,8 @@
   ##### -회전하는 선분들 ... AlgeoMath : http://me2.do/GANxVeFW YouTube : https://youtu.be/XUZu9xX12WY
   
   ### 수학수업에서 실제활용
+  ##### -만든순서별[2019] : https://min7014.github.io/2019/2019021101.html
+  ##### -2019 학년도 수학수업(The mathematics class of 2019) : https://min7014.github.io/2019/2019030303.html
   ##### -평균변화율 자료를 활용한 자료 소개 공학도구의 필요성 YouTube : https://youtu.be/Y_9RMExWfI4
   ##### -평균변화율 AlgeoMath : http://me2.do/xtFOWk7X pdf : https://min7014.github.io/2019/2019072201.pdf YouTube : https://youtu.be/mj0CDSnLaIc 
   ##### -Solutions, Slope Fields, and Euler’s Method : http://me2.do/5WlxIbRn
@@ -40,10 +42,6 @@
 
 ### *참고
 - ##### 민은기 선생님의 수학자료실 : [https://min7014.github.io](https://min7014.github.io)
-- ##### 만든순서별[2019] : https://min7014.github.io/2019/2019021101.html
-- ##### 2019 학년도 수학수업(The mathematics class of 2019) : https://min7014.github.io/2019/2019030303.html
-- ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
-- ##### 평행선의 닮음비(길이가 변하는가?) : AlgeoMath	:	http://me2.do/53QwHpgI pdf	:	https://min7014.github.io/2019/2019072302.pdf YouTube	:	https://youtu.be/vGJ_oArMQK8
 - ##### 예각에 대한 사인법칙(AlgeoMath)[강의록](From Github) : https://min7014.github.io/2019/2018092501.pdf
 - ##### 주사위의 상대도수 만드는 과정 [Algeomath : http://me2.do/5VH7wFdc ]
 - ##### edwith 수학자료실 강의실 수강신청 방법 : [https://goo.gl/TX9bxf](https://goo.gl/TX9bxf)
