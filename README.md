@@ -26,7 +26,11 @@
   ##### -Sierpinski Triangle  [ http://me2.do/FirUt3d2 ]
   ##### -Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
   
-- ### 3 차시 : TBA
+- ### 3 차시 
+  ##### -빠르게 배우기 : http://me2.do/5fS0J6mQ
+  ##### -The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt  
+  ##### -평행선의 닮음비(길이가 변하는가?) AlgeoMath : http://me2.do/53QwHpgI pdf  : https://min7014.github.io/2019/2019072302.pdf YouTube : https://youtu.be/vGJ_oArMQK8
+
 =======================================================
 
 
@@ -36,22 +40,11 @@
 - ##### 민은기 선생님의 수학자료실 : [https://min7014.github.io](https://min7014.github.io)
 - ##### 만든순서별[2019] : https://min7014.github.io/2019/2019021101.html
 - ##### 2019 학년도 수학수업(The mathematics class of 2019) : https://min7014.github.io/2019/2019030303.html
-
-- ##### 빠르게 배우기 : http://me2.do/5fS0J6mQ
-- ##### The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
-  
-
 - ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
 - ##### 평행선의 닮음비(길이가 변하는가?) : AlgeoMath	:	http://me2.do/53QwHpgI pdf	:	https://min7014.github.io/2019/2019072302.pdf YouTube	:	https://youtu.be/vGJ_oArMQK8
-
-
 - ##### 예각에 대한 사인법칙(AlgeoMath)[강의록](From Github) : https://min7014.github.io/2019/2018092501.pdf
 - ##### 주사위의 상대도수 만드는 과정 [Algeomath : http://me2.do/5VH7wFdc ]
-
-
-
 - ##### edwith 수학자료실 강의실 수강신청 방법 : [https://goo.gl/TX9bxf](https://goo.gl/TX9bxf)
-
 
 ### *AlgeoMath
 - ##### AlgeoMath 주소 : https://www.algeomath.kr
