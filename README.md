@@ -17,7 +17,7 @@
   ##### -Parametric Equations and Polar Coordinates : http://me2.do/xZ14UIh3
   ##### -Rose : http://me2.do/G8ZagiQR
   
-  ### 공학도구를 활용하는 이유 및 탐구 수업 예시
+  ### 공학도구를 활용하는 이유 및 탐구 수업 활동
   ##### -선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
   
 - ### 2 차시 : 반복적인 수학적 실험은 블록코딩으로 
