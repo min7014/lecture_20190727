@@ -15,8 +15,9 @@
   ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
   
 - ### 2 차시 : TBA
-- ##### Sierpinski Triangle  [ http://me2.do/FirUt3d2 ]
+  ##### Sierpinski Triangle  [ http://me2.do/FirUt3d2 ]
   ##### Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
+  
 - ### 3 차시 : TBA
 =======================================================
 
