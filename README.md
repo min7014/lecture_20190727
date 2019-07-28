@@ -30,8 +30,10 @@
   
 - ### 3 차시 
   ### 다른이에게 쉽게 알려주기
+  ##### -알지오매스 빠르게 배우기 설명 YouTube : https://youtu.be/Y_9RMExWfI4
   ##### -빠르게 배우기 : http://me2.do/5fS0J6mQ
   ##### -The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt  
+  
   ### 체크박스를 활용한 자료만들기 
   ##### -평행선의 닮음비(길이가 변하는가?) AlgeoMath : http://me2.do/53QwHpgI pdf  : https://min7014.github.io/2019/2019072302.pdf YouTube : https://youtu.be/vGJ_oArMQK8
 
