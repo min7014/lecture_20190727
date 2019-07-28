@@ -48,6 +48,8 @@
 
 ### *참고
 - ##### 민은기 선생님의 수학자료실 : [https://min7014.github.io](https://min7014.github.io)
+- ##### 민은기 선생님의 수학수업 AlgeoMath 모둠 : [https://www.algeomath.kr/modoom/bc4ea51f5f4045dea594b8cb159e8eab/main.do](https://www.algeomath.kr/modoom/bc4ea51f5f4045dea594b8cb159e8eab/main.do)
+- ##### 작도 AlgeoMath 모둠 : [https://www.algeomath.kr/modoom/0c060fbac78d48c6b635b7c8a1b98cf0/main.do](https://www.algeomath.kr/modoom/0c060fbac78d48c6b635b7c8a1b98cf0/main.do)
 - ##### 예각에 대한 사인법칙(AlgeoMath)[강의록](From Github) : https://min7014.github.io/2019/2018092501.pdf
 - ##### 주사위의 상대도수 만드는 과정 [Algeomath : http://me2.do/5VH7wFdc ]
 - ##### edwith 수학자료실 강의실 수강신청 방법 : [https://goo.gl/TX9bxf](https://goo.gl/TX9bxf)
