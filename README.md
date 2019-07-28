@@ -8,6 +8,11 @@
 ## *AlgeoMath 전체 강의 순서
 - ### 1 차시 : TBA
   ##### 평균변화율 AlgeoMath : http://me2.do/xtFOWk7X pdf : https://min7014.github.io/2019/2019072201.pdf YouTube : https://youtu.be/mj0CDSnLaIc
+  ##### Solutions, Slope Fields, and Euler’s Method : http://me2.do/5WlxIbRn
+  ##### Parametric Equations and Polar Coordinates : http://me2.do/xZ14UIh3
+  ##### Rose : http://me2.do/G8ZagiQR
+  ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
+  
 - ##### 2 차시 : TBA
 - ##### 3 차시 : TBA
 =======================================================
@@ -19,9 +24,6 @@
 - ##### 민은기 선생님의 수학자료실 : [https://min7014.github.io](https://min7014.github.io)
 - ##### 만든순서별[2019] : https://min7014.github.io/2019/2019021101.html
 - ##### 2019 학년도 수학수업(The mathematics class of 2019) : https://min7014.github.io/2019/2019030303.html
-- ##### Solutions, Slope Fields, and Euler’s Method : http://me2.do/5WlxIbRn
-- ##### Parametric Equations and Polar Coordinates : http://me2.do/xZ14UIh3
-- ##### Rose : http://me2.do/G8ZagiQR
 
 - ##### 빠르게 배우기 : http://me2.do/5fS0J6mQ
 
