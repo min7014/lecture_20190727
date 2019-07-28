@@ -14,7 +14,7 @@
   ##### Rose : http://me2.do/G8ZagiQR
   ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
   
-- ### 2 차시 : TBA
+- ### 2 차시 : 반복적인 수학적 실험은 블록코딩으로 
   ##### Sierpinski Triangle  [ http://me2.do/FirUt3d2 ]
   ##### Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
   
