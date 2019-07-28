@@ -15,6 +15,7 @@
   ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
   
 - ### 2 차시 : TBA
+  ##### Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
 - ### 3 차시 : TBA
 =======================================================
 
@@ -32,7 +33,6 @@
 - ##### 평행선의 닮음비(길이가 변하는가?) : AlgeoMath	:	http://me2.do/53QwHpgI pdf	:	https://min7014.github.io/2019/2019072302.pdf YouTube	:	https://youtu.be/vGJ_oArMQK8
 
 
-- ##### Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
 - ##### 예각에 대한 사인법칙(AlgeoMath)[강의록](From Github) : https://min7014.github.io/2019/2018092501.pdf
 - ##### 주사위의 상대도수 만드는 과정 [Algeomath : http://me2.do/5VH7wFdc ]
 - ##### Sierpinski Triangle  [ http://me2.do/FirUt3d2 ]
