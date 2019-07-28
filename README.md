@@ -12,7 +12,8 @@
   ##### -The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
   
   ### 수학수업에서 실제활용
-  ##### -평균변화율 AlgeoMath : http://me2.do/xtFOWk7X pdf : https://min7014.github.io/2019/2019072201.pdf YouTube : https://youtu.be/mj0CDSnLaIc
+  ##### -평균변화율 자료를 활용한 자료 소개 공학도구의 필요성 YouTube : https://youtu.be/Y_9RMExWfI4
+  ##### -평균변화율 AlgeoMath : http://me2.do/xtFOWk7X pdf : https://min7014.github.io/2019/2019072201.pdf YouTube : https://youtu.be/mj0CDSnLaIc 
   ##### -Solutions, Slope Fields, and Euler’s Method : http://me2.do/5WlxIbRn
   ##### -Parametric Equations and Polar Coordinates : http://me2.do/xZ14UIh3
   ##### -Rose : http://me2.do/G8ZagiQR
