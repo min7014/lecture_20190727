@@ -9,7 +9,7 @@
 - ### 1 차시
 
   ### 처음시작에 보여드린 자료
-  ##### -The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
+  ##### -회전하는 선분들 ... AlgeoMath : http://me2.do/GANxVeFW YouTube : https://youtu.be/XUZu9xX12WY
   
   ### 수학수업에서 실제활용
   ##### -평균변화율 자료를 활용한 자료 소개 공학도구의 필요성 YouTube : https://youtu.be/Y_9RMExWfI4
@@ -38,6 +38,8 @@
 - ##### 2019 학년도 수학수업(The mathematics class of 2019) : https://min7014.github.io/2019/2019030303.html
 
 - ##### 빠르게 배우기 : http://me2.do/5fS0J6mQ
+- ##### The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
+  
 
 - ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
 - ##### 평행선의 닮음비(길이가 변하는가?) : AlgeoMath	:	http://me2.do/53QwHpgI pdf	:	https://min7014.github.io/2019/2019072302.pdf YouTube	:	https://youtu.be/vGJ_oArMQK8
