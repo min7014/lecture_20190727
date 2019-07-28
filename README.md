@@ -10,7 +10,8 @@
 
   ### 처음시작에 보여드린 자료
   ##### -회전하는 선분들 ... AlgeoMath : http://me2.do/GANxVeFW YouTube : https://youtu.be/XUZu9xX12WY
-  
+  ### 2008 강의영상 및 2018년 알지오매스 자료
+  ##### -삼각형의 두 중선은 서로를 2 대 1로 나눈다.(Two medians of a triangle divide each other in the ratio 2:1.) YouTube : https://youtu.be/cCOT9dCeahM AlgeoMath : http://me2.do/G73YwOgU
   ### 수학수업에서 실제활용
   ##### -만든순서별[2019] : https://min7014.github.io/2019/2019021101.html
   ##### -2019 학년도 수학수업(The mathematics class of 2019) : https://min7014.github.io/2019/2019030303.html
