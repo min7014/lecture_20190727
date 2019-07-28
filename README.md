@@ -6,7 +6,7 @@
 
 
 ## *AlgeoMath 전체 강의 순서
-- ### 1 차시 : 수학수업에서 실제활용한 예시 및 탐구수업 예시
+- ### 1 차시 : 수학수업에서 실제활용, 공학도구를 활용하는 이유 및 탐구 수업 예시
   ##### The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
   ##### 평균변화율 AlgeoMath : http://me2.do/xtFOWk7X pdf : https://min7014.github.io/2019/2019072201.pdf YouTube : https://youtu.be/mj0CDSnLaIc
   ##### Solutions, Slope Fields, and Euler’s Method : http://me2.do/5WlxIbRn
