@@ -35,7 +35,7 @@
   ##### -The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt  
   
   ### 작도공부에 대한 필요성
-  ##### -작도에 대한 공부의 필요성 설명 YouTube : https://youtu.be/hP_XZ_U9dEI
+  ##### -작도에 대한 공부의 필요성 설명 YouTube : https://youtu.be/lNZsh6YjDZo
   ##### -기하작도문제(Geometry Construction Problems)[AlgeoMath : http://me2.do/GlNLGVdL]
   
   ### 체크박스를 활용한 자료만들기 
