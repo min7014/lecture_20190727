@@ -6,8 +6,8 @@
 
 
 ## *AlgeoMath 전체 강의 순서
-- #### 1 차시 : TBA
-- ##### 평균변화율 AlgeoMath : http://me2.do/xtFOWk7X pdf : https://min7014.github.io/2019/2019072201.pdf YouTube : https://youtu.be/mj0CDSnLaIc
+- ### 1 차시 : TBA
+##### 평균변화율 AlgeoMath : http://me2.do/xtFOWk7X pdf : https://min7014.github.io/2019/2019072201.pdf YouTube : https://youtu.be/mj0CDSnLaIc
 - ##### 2 차시 : TBA
 - ##### 3 차시 : TBA
 =======================================================
