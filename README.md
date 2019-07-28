@@ -7,14 +7,15 @@
 
 ## *AlgeoMath 전체 강의 순서
 - ### 1 차시 : 수학수업에서 실제활용한 예시 및 탐구수업 예시
+  ##### The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
   ##### 평균변화율 AlgeoMath : http://me2.do/xtFOWk7X pdf : https://min7014.github.io/2019/2019072201.pdf YouTube : https://youtu.be/mj0CDSnLaIc
   ##### Solutions, Slope Fields, and Euler’s Method : http://me2.do/5WlxIbRn
   ##### Parametric Equations and Polar Coordinates : http://me2.do/xZ14UIh3
   ##### Rose : http://me2.do/G8ZagiQR
   ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
   
-- ##### 2 차시 : TBA
-- ##### 3 차시 : TBA
+- ### 2 차시 : TBA
+- ### 3 차시 : TBA
 =======================================================
 
 
@@ -30,7 +31,7 @@
 - ##### 선분과 직선 위의 한 점을 가지고(AlgeoMath) : https://min7014.github.io/2019/2019062401.pdf
 - ##### 평행선의 닮음비(길이가 변하는가?) : AlgeoMath	:	http://me2.do/53QwHpgI pdf	:	https://min7014.github.io/2019/2019072302.pdf YouTube	:	https://youtu.be/vGJ_oArMQK8
 
-- ##### The lemniscate of Bernoulli and its two foci (만든 과정에 대한 영상과 AlgeoMath 자료) : http://me2.do/G53BzgXt
+
 - ##### Sierpinski triangle using the chaos game  [ http://me2.do/FirUt3d2 ]
 - ##### 예각에 대한 사인법칙(AlgeoMath)[강의록](From Github) : https://min7014.github.io/2019/2018092501.pdf
 - ##### 주사위의 상대도수 만드는 과정 [Algeomath : http://me2.do/5VH7wFdc ]
